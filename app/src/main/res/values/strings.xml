@@ -1,3 +1,46 @@
 <resources>
     <string name="app_name">Fitness</string>
+    <string name="category_1">Gymnastics</string>
+    <string name="category_2">Aerobics</string>
+    <string name="category_3">Meditation</string>
+    <string name="category_4">Yoga</string>
+    <string name="time">45 min</string>
+    <string name="indoor">Indoor</string>
+    <string name="lessons">lessons</string>
+
+    <string name="gymnastics_title_1">Push-Ups</string>
+    <string name="gymnastics_title_2">Crunches</string>
+    <string name="gymnastics_title_3">Squats</string>
+
+    <string name="gymnastics_description_1">Push-ups are an exercise to develop upper body strength. Lie face down on the floor, supporting your body on your hands and toes. Lower yourself by bending your arms at the elbows, and then push back up to the starting position. This exercise strengthens the chest and shoulder muscles.</string>
+    <string name="gymnastics_description_2">Crunches are an effective exercise for working your abdominal muscles. Lie on your back, bend your knees, and place your feet flat on the floor. Cross your arms over your chest or place them behind your head. Lift the upper part of your body by curling your torso, and then return to the starting position. This exercise helps strengthen the front and side abdominal muscles.</string>
+    <string name="gymnastics_description_3">Squats are a great exercise for working the lower body, including the thighs and glutes. Stand with your feet shoulder-width apart. Bend your knees and lower yourself down as if sitting on an invisible chair. Then, push back up to the starting position. It\'s important to maintain proper form by keeping your back straight and your knees aligned with your ankles.</string>
+
+    <string name="aerobic_title_1">Jogging in Place</string>
+    <string name="aerobic_title_2">High Knees</string>
+    <string name="aerobic_title_3">Jump Rope</string>
+
+    <string name="aerobic_description_1">Jogging in place is a simple yet effective aerobic exercise. Simply stand in place and start jogging, lifting your knees higher to increase intensity. This exercise helps improve endurance and physical activity levels.</string>
+    <string name="aerobic_description_2">High knees are an exercise that builds strength and cardio endurance. While standing in place, start lifting your knees towards your chest with each jump, aiming to maintain a high tempo. This exercise is also a great warm-up for your muscles.</string>
+    <string name="aerobic_description_3">Jump rope is an excellent aerobic exercise for improving cardiovascular health and coordination. Grab a jump rope and start jumping, lifting your feet to pass the rope underneath. Gradually increase the speed and duration of your jumps to raise the intensity.</string>
+
+    <string name="meditation_title_1">Mindful Breathing Meditation</string>
+    <string name="meditation_title_2">Body Scan Meditation</string>
+
+    <string name="meditation_description_1">Sit in a comfortable position with a straight back or lie down on your back. Close your eyes and begin to focus on your breath. Take deep breaths in through your nose, noticing the sensations during inhalation, and then exhale slowly through your mouth, observing the sensations during exhalation. If your attention drifts away from your breath, simply return to it, avoiding self-judgment for distractions. Practicing mindful breathing helps calm the mind and improve concentration.</string>
+    <string name="meditation_description_2">Lie on your back with your legs extended and your arms by your sides, palms facing up. Close your eyes and begin to scan your body with your attention. Start with your feet and systematically move through each part of your body, noticing sensations, tension, or relaxation in each area. Relax and acknowledge any physical sensations that arise. This exercise helps reduce tension and creates a connection between the mind and body.</string>
+
+    <string name="yoga_title_1">Downward-Facing Dog Pose</string>
+    <string name="yoga_title_2">Child\'s Pose</string>
+
+    <string name="yoga_description_1">Start on your hands and knees, with your hands slightly wider than your shoulders and fingers spread apart. Lift your hips up, straightening your legs to form an inverted "V" shape with your body. Focus on pressing your heels towards the floor and relax your head between your arms. This pose improves flexibility, strengthens the back muscles, and stretches the legs.</string>
+    <string name="yoga_description_2">Begin on your knees, spread them apart about hip-width, and sit back on your heels. Extend your arms forward on the floor and lower your head to the ground, creating an angle between your thighs and chest. This pose helps relax the back, neck, and shoulders and reduces stress and tension.</string>
+    <string name="gymnastics">Gymnastics</string>
+    <string name="yogafit_for_beginners">Yogafit for Beginners</string>
+    <string name="suggestion_today_aerobics">Suggestion Today Aerobics</string>
+    <string name="categories">Categories</string>
+    <string name="good_morning">Good morning,</string>
+    <string name="we_have_expert_team_a_you_can_book_with_them_your_classes">We have expert team a you can book with them your Classes</string>
+    <string name="get_started">Get Started</string>
+    <string name="choose_the_suitable_class_for_you">Choose the suitable class for you</string>
 </resources>
